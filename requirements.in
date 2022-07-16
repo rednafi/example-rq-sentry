@@ -1,0 +1,4 @@
+redis
+rq
+sentry-sdk
+python-dotenv
