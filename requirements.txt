@@ -16,7 +16,7 @@ packaging==21.3
     # via redis
 pyparsing==3.0.9
     # via packaging
-python-dotenv==0.20.0
+python-dotenv==0.21.0
     # via -r requirements.in
 redis==4.3.4
     # via
