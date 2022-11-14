@@ -72,7 +72,7 @@ toml==0.10.2
     # via pre-commit
 tomli==2.0.1
     # via pep517
-types-redis==4.3.21.3
+types-redis==4.3.21.4
     # via -r requirements-dev.in
 typing-extensions==4.3.0
     # via mypy
