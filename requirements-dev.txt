@@ -54,7 +54,7 @@ platformdirs==2.5.2
     #   virtualenv
 pluggy==1.0.0
     # via pytest
-pre-commit==2.20.0
+pre-commit==2.21.0
     # via -r requirements-dev.in
 pycodestyle==2.8.0
     # via flake8
@@ -68,8 +68,6 @@ pyyaml==6.0
     # via pre-commit
 six==1.16.0
     # via virtualenv
-toml==0.10.2
-    # via pre-commit
 tomli==2.0.1
     # via pep517
 types-redis==4.3.21.6
