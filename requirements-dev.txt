@@ -6,7 +6,7 @@
 #
 attrs==21.4.0
     # via pytest
-black==22.12.0
+black==23.1.0
     # via -r requirements-dev.in
 build==0.8.0
     # via pip-tools
@@ -44,8 +44,9 @@ mypy-extensions==0.4.3
     #   mypy
 nodeenv==1.7.0
     # via pre-commit
-packaging==21.3
+packaging==23.0
     # via
+    #   black
     #   build
     #   pytest
 pathspec==0.9.0
@@ -68,8 +69,6 @@ pycparser==2.21
     # via cffi
 pyflakes==3.0.1
     # via flake8
-pyparsing==3.0.9
-    # via packaging
 pytest==7.2.1
     # via -r requirements-dev.in
 pyyaml==6.0
