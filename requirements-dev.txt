@@ -22,6 +22,8 @@ cryptography==39.0.0
     #   types-redis
 distlib==0.3.5
     # via virtualenv
+exceptiongroup==1.1.3
+    # via pytest
 filelock==3.7.1
     # via virtualenv
 flake8==6.1.0
@@ -74,13 +76,21 @@ pyyaml==6.0
 six==1.16.0
     # via virtualenv
 tomli==2.0.1
-    # via pep517
+    # via
+    #   black
+    #   build
+    #   mypy
+    #   pep517
+    #   pip-tools
+    #   pytest
 types-pyopenssl==23.0.0.2
     # via types-redis
-types-redis==4.6.0.7
+types-redis==4.6.0.8
     # via -r requirements-dev.in
 typing-extensions==4.3.0
-    # via mypy
+    # via
+    #   black
+    #   mypy
 virtualenv==20.15.1
     # via pre-commit
 wheel==0.37.1
