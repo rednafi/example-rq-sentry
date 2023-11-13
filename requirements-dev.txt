@@ -85,7 +85,7 @@ tomli==2.0.1
     #   pytest
 types-pyopenssl==23.0.0.2
     # via types-redis
-types-redis==4.6.0.9
+types-redis==4.6.0.10
     # via -r requirements-dev.in
 typing-extensions==4.3.0
     # via
