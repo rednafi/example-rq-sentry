@@ -18,7 +18,7 @@ redis==5.0.2
     #   rq
 rq==1.16.0
     # via -r requirements.in
-sentry-sdk==1.40.6
+sentry-sdk==1.41.0
     # via -r requirements.in
 urllib3==1.26.14
     # via sentry-sdk
