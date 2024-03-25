@@ -59,7 +59,7 @@ platformdirs==2.5.2
     #   virtualenv
 pluggy==1.4.0
     # via pytest
-pre-commit==3.6.2
+pre-commit==3.7.0
     # via -r requirements-dev.in
 pycodestyle==2.11.0
     # via flake8
