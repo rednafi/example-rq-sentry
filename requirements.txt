@@ -16,7 +16,7 @@ redis==5.2.1
     # via
     #   -r requirements.in
     #   rq
-rq==2.0.0
+rq==2.1.0
     # via -r requirements.in
 sentry-sdk==2.19.2
     # via -r requirements.in
