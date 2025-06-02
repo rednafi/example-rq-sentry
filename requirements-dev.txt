@@ -67,11 +67,13 @@ pycparser==2.21
     # via cffi
 pyflakes==3.3.2
     # via flake8
+pygments==2.19.1
+    # via pytest
 pyproject-hooks==1.0.0
     # via
     #   build
     #   pip-tools
-pytest==8.3.5
+pytest==8.4.0
     # via -r requirements-dev.in
 pyyaml==6.0
     # via pre-commit
