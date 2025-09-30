@@ -24,7 +24,7 @@ redis==6.4.0
     #   rq
 rq==2.6.0
     # via -r requirements.in
-sentry-sdk==2.38.0
+sentry-sdk==2.39.0
     # via -r requirements.in
 six==1.17.0
     # via python-dateutil
