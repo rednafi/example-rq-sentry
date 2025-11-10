@@ -4,7 +4,7 @@
 #
 #    pip-compile --no-emit-options --output-file=requirements-dev.txt requirements-dev.in
 #
-black==25.9.0
+black==25.11.0
     # via -r requirements-dev.in
 build==1.0.3
     # via pip-tools
@@ -77,7 +77,7 @@ pyproject-hooks==1.0.0
     #   pip-tools
 pytest==9.0.0
     # via -r requirements-dev.in
-pytokens==0.1.10
+pytokens==0.3.0
     # via black
 pyyaml==6.0
     # via pre-commit
