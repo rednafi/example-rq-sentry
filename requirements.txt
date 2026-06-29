@@ -18,7 +18,7 @@ python-dotenv==1.2.2
     # via -r requirements.in
 pytz==2025.2
     # via croniter
-redis==8.0.0
+redis==8.0.1
     # via
     #   -r requirements.in
     #   rq
