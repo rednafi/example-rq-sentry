@@ -32,7 +32,7 @@ flake8==7.4.1
     # via -r requirements-dev.in
 identify==2.5.1
     # via pre-commit
-iniconfig==1.1.1
+iniconfig==2.3.1
     # via pytest
 isort==9.0.2
     # via -r requirements-dev.in
@@ -49,7 +49,7 @@ mypy-extensions==1.1.0
     #   mypy
 nodeenv==1.7.0
     # via pre-commit
-packaging==23.0
+packaging==26.3
     # via
     #   black
     #   build
@@ -64,7 +64,7 @@ platformdirs==2.5.2
     # via
     #   black
     #   virtualenv
-pluggy==1.5.0
+pluggy==1.7.0
     # via pytest
 pre-commit==4.6.2
     # via -r requirements-dev.in
@@ -80,7 +80,7 @@ pyproject-hooks==1.0.0
     # via
     #   build
     #   pip-tools
-pytest==9.1.1
+pytest==9.2.0
     # via -r requirements-dev.in
 pytokens==0.4.1
     # via black
